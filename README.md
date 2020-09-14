@@ -19,4 +19,4 @@ Welcome to a darkness site.
 
 I don't know what I am doing with my life since I started to learn code...
 
-Run as fast as you can, you can be saved - I killed myself when I wrote a WHILE(TRUE) so, I'm in a eternal loop.
+Run as fast as you can, you can be saved - I killed myself when I wrote a <b>WHILE(TRUE)</b> so, I'm in a eternal loop.
