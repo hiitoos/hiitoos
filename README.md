@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to a darkness site.
+
+I don't know what I am doing with my life since I started to learn code...
+
+Run as fast as you can, you can save yourself - I killed myself when I wrote a ###WHILE(TRUE) so, I'm in a eternal loop.
